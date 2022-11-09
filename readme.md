@@ -171,6 +171,8 @@ export 模式无论在 UTAU 中还是单独使用时，都会导出整个转换�
 3. [opencc](https://github.com/BYVoid/OpenCC) Apache License
 3. [fenci](https://github.com/a358003542/fenci) MIT license
 4. [autoCVVC](https://delta-kimigatame.hatenablog.jp/entry/ar591802)
-4. [Rime 粤语拼音方案](https://github.com/rime/rime-cantonese) CC BY 4.0
-4. [CC-CEDICT](https://cc-cedict.org/wiki/start) CC BY-SA 3.0
+5. [Rime 粤语拼音方案](https://github.com/rime/rime-cantonese) CC BY 4.0
+6. [CC-CEDICT](https://cc-cedict.org/wiki/start) CC BY-SA 3.0
+7. [HKCanCor](https://github.com/fcbond/hkcancor) CC BY 4.0
+8. [Pyinstaller](https://www.pyinstaller.org/) GPLv2
 
