@@ -121,6 +121,8 @@ def main():
         except argparse.ArgumentError as e:
             print(e)
             user_argv = input(">>> ")
+            
+    input(tr("press Enter to exit..."))
 
 
 if __name__ == "__main__":

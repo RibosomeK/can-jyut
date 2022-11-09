@@ -1,6 +1,4 @@
-import warnings, locale, gettext, os
-
-print(os.getcwd())
+import warnings, locale, gettext
 
 warnings.simplefilter("ignore")
 
