@@ -1,0 +1,10 @@
+fenci
+opencc
+pycantonese
+
+[testing]
+pytest
+pytest-cov
+mypy
+black
+tox
