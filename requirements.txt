@@ -1,0 +1,3 @@
+fenci
+opencc
+pycantonese

@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-10-28 12:09+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: main.py:36
+msgid "Welcom to Can-Jyut, a UTAU plugin convert kanji to jyutping with a cli."
+msgstr "歡迎使用 Can-Jyut，一個可以轉換漢字到拼音的命令行 UTAU 插件。"
+
+#: main.py:40
+msgid "print out help info"
+msgstr "列出幫助信息"
+
+#: main.py:44
+msgid "use more accurate function, but much more slower"
+msgstr "使用 pycantonese 模組進行分詞和取得拼音，準確但是速度慢"
+
+#: main.py:48
+msgid "skip blank note, enlong symbol -, +"
+msgstr "跳過空行或者延音符號 -, +"
+
+#: main.py:53
+msgid "do not call autoCVVC for further process"
+msgstr "不使用 autoCVVC 進行拆音"
+
+#: main.py:59
+msgid "use other romanaization scheme. default is jyutping, other avaliable value are yale and church"
+msgstr "使用其他粵語拼音方案，默認為粵拼，可選項為耶魯式（yale）和教堂式（church）"
+
+#: main.py:67
+msgid "add nasal consonant ng for oi, ok, au"
+msgstr "部分發音使用懶音，如將 oi, ok, au 變為 ngoi, ngok, ngau"
+
+#: main.py:73
+msgid "convert a ust with kanji to romanaization scheme"
+msgstr "轉換原有音符的漢字為拼音"
+
+#: main.py:79
+msgid "convert the whole ust file and export it"
+msgstr "轉換並導出修改後文件的副本"
+
+#: main.py:83
+msgid "set default dictionary, see readme for more details"
+msgstr "設置默認字典，詳情請看 readme"
+
+#: main.py:86
+msgid "set current dictionary, do not change the defalut"
+msgstr "設置當前的字典，不會改變默認字典"
+
+#: main.py:88
+msgid "quit the program"
+msgstr "退出程序"
+
+#: main.py:165
+msgid ""
+"plz input the dir of autoCVVC or press enter to quit:\n"
+msgstr "請輸入 autoCVVC 的文件路徑，或者按回車退出： \n"
+
+#: main.py:170
+msgid "auto cvvc success"
+msgstr "拆音成功"
+
+#: main.py:301
+msgid "does not exist in dict_type"
+msgstr "不在 dict_type 中"
+
+#: main.py:317
+msgid ""
+"Welcome to Can-Jyut, a Kanji to Jyutping UTAU plugin with a command line interface.\n"
+"For more options or help, you can enter -h\n"
+"Or you can just input the kanji\n"
+">>> "
+msgstr "歡迎使用 Can-Jyut，一個可以轉換漢字到拼音的命令行 UTAU 插件。\n更多選項或幫助信息可以輸入 -h 查看\n>>> "
+
+#: main.py:344
+msgid "set default dict success!"
+msgstr "設置默認字典成功！"
+
+#: main.py:351
+msgid "Please check if the corresponding json dict exist or not."
+msgstr "請檢查相應的 json 文件是否存在"
+
+#: main.py:367
+msgid "convert success"
+msgstr "轉換成功"
+
+#: main.py:383
+msgid ""
+"convert success!\n"
+"converted file exported at "
+msgstr "轉換成功！\n轉換的文件另存為在 "
+
+#: main.py:404
+msgid "convert success!"
+msgstr "轉換成功！"
+

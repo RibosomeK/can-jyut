@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-10-28 12:09+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: main.py:36
+msgid "Welcom to Can-Jyut, a UTAU plugin convert kanji to jyutping with a cli."
+msgstr ""
+
+#: main.py:40
+msgid "print out help info"
+msgstr ""
+
+#: main.py:44
+msgid "use more accurate function, but much more slower"
+msgstr ""
+
+#: main.py:48
+msgid "skip blank note, enlong symbol -, +"
+msgstr ""
+
+#: main.py:53
+msgid "do not call autoCVVC for further process"
+msgstr ""
+
+#: main.py:59
+msgid "use other romanaization scheme. default is jyutping, other avaliable value are yale and church"
+msgstr ""
+
+#: main.py:67
+msgid "add nasal consonant ng for oi, ok, au"
+msgstr ""
+
+#: main.py:73
+msgid "convert a ust with kanji to romanaization scheme"
+msgstr ""
+
+#: main.py:79
+msgid "convert the whole ust file and export it"
+msgstr ""
+
+#: main.py:83
+msgid "set default dictionary, see readme for more details"
+msgstr ""
+
+#: main.py:86
+msgid "set current dictionary, do not change the defalut"
+msgstr ""
+
+#: main.py:88
+msgid "quit the program"
+msgstr ""
+
+#: main.py:165
+msgid ""
+"plz input the dir of autoCVVC or press enter to quit:\n"
+msgstr ""
+
+#: main.py:170
+msgid "auto cvvc success"
+msgstr ""
+
+#: main.py:301
+msgid "does not exist in dict_type"
+msgstr ""
+
+#: main.py:317
+msgid ""
+"Welcome to Can-Jyut, a Kanji to Jyutping UTAU plugin with a command line interface.\n"
+"For more options or help, you can enter -h\n"
+"Or you can just input the kanji\n"
+">>> "
+msgstr ""
+
+#: main.py:344
+msgid "set default dict success!"
+msgstr ""
+
+#: main.py:351
+msgid "Please check if the corresponding json dict exist or not."
+msgstr ""
+
+#: main.py:383
+msgid ""
+"convert success!\n"
+"converted file exported at "
+msgstr ""
+
+#: main.py:404
+msgid "convert success!"
+msgstr ""
+
+#: main.py:426
+msgid "hello world"
+msgstr ""
+
